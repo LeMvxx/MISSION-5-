@@ -1,0 +1,68 @@
+/* Styling for body */
+body {
+   background-color: #7d3c98; /* Unified background color */
+   font-family: Arial, sans-serif;
+   margin: 0 10%; /* Simplified margin */
+}
+
+/* Header styling */
+.en_tete {
+   color: #ffffff;
+   background-color: black;
+   text-align: center;
+   padding: 30px;
+   overflow: hidden;
+}
+
+/* Left-aligned information section */
+.info {
+   margin-left: 15%;
+   float: left;
+}
+
+/* Right-aligned mael image with padding */
+.mael {
+   height: 30%;
+   width: 20%;
+   float: right;
+   margin-right: 15%;
+   padding: 1%;
+}
+
+/* Date of birth styling */
+.date_de_naissance {
+   color: black;
+   font-weight: bold;
+}
+
+/* Clear float in block 2 */
+.block_2 {
+   clear: both;
+}
+
+/* Separator styling */
+.séparation {
+   color: black;
+   clear: both;
+   width: 75%;
+   border-top: 8px solid #000000;
+   border-radius: 5px;
+   margin: 20px auto; /* Centered for better layout */
+}
+
+/* Title underline styling */
+.titre_hr {
+   color: black;
+   clear: both;
+   width: 75%;
+}
+
+/* Title styling */
+.titre {
+   margin-left: 15%;
+   font-weight: bold;
+}
+
+/* Date styling */
+.date {
+   margin-left:
